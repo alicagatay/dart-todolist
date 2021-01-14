@@ -1,4 +1,4 @@
-todolist is a simple command-line application I made using the Dart programming language. The main purpose of the app is to write down all the things the user has noted to a list, just like a normal todo list application. It has 3 main functions:
+todolist is a simple command-line application I made using the Dart programming language in order to practice and improve my skills in Dart programming language. The main purpose of the app is to write down all the things the user has noted to a list, just like a normal todo list application. It has 3 main functions:
 
 Add --> Adding an item to a list.
 
